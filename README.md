@@ -12,10 +12,10 @@ Welcome to the Sign-in-Sign-up-Page repository! This repository contains a light
 You can view the live preview of the template by clicking https://kunalsingh026.github.io/Sign-in-Sign-up-Page/.
 
 ## Getting Started
-To get started with using the template, simply clone the repository and customize the files to fit your specific needs.
+To start using the template, clone the repository and customize the files to fit your specific needs.
 
 ```bash
-git clone https://github.com/your-username/sign-in-sign-up-page.git
+git clone https://github.com/kunalSingh026/sign-in-sign-up-page.git
 ```
 
 ## Usage
@@ -24,4 +24,4 @@ You can utilize this template for your user authentication needs. Feel free to m
 ## License
 This project is licensed under the MIT License.
 
-Thank you for checking out the Sign-in-Sign-up-Page repository! If you have any questions or feedback, please feel free to reach out.
+Thank you for checking out the Sign-in-Sign-up-Page repository! Please feel free to reach out if you have any questions or feedback.
