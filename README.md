@@ -9,7 +9,7 @@ Welcome to the Sign-in-Sign-up-Page repository! This repository contains a light
 - Easy-to-customize sign-in and sign-up page layout
 
 ## Preview
-You can view the live preview of the template by clicking .
+You can view the live preview of the template by clicking https://kunalsingh026.github.io/Sign-in-Sign-up-Page/.
 
 ## Getting Started
 To get started with using the template, simply clone the repository and customize the files to fit your specific needs.
